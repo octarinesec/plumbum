@@ -51,7 +51,7 @@ class PyTest(Command):
         raise SystemExit(errno)
 
 
-setup(name = "plumbum",
+setup(name = "octarine-plumbum",
     version = version_string,  # @UndefinedVariable
     description = "Plumbum: shell combinators library",
     author = "Tomer Filiba",
